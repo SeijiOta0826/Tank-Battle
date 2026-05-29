@@ -112,4 +112,18 @@ public class GameManager : MonoBehaviour
         yield return new WaitForSecondsRealtime(duration);
         Time.timeScale = 1f;
     }
+
+    // Escキーが押されたらゲームを終了する
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+#if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+#else
+            Application.Quit();
+#endif
+        }
+    }
 }
+
