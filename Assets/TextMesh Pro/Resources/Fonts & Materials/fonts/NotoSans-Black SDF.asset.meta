@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e0c13dddb5c9ce4e90af5446fe6d81d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/fonts/NotoSans-Black
+    SDF.asset
+  uploadId: 739895

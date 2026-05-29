@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3a19c5e963ebbb4d87d2a3f4ecb93c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/Roboto-Black SDF Outlined.mat
+  uploadId: 739895

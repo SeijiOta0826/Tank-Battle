@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3092767d33128c4197814e2dfe6a92e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/Roboto-Black ASCII Extended.asset
+  uploadId: 739895

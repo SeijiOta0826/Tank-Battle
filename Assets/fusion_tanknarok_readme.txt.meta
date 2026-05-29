@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35ef36e7577470f4599b37ddaec4fe69
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/fusion_tanknarok_readme.txt
+  uploadId: 739895

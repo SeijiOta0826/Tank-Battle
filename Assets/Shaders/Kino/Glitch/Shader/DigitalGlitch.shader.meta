@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba40dc630e1d9417cb9ea22586ece1e1
+timeCreated: 1435897513
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/Shaders/Kino/Glitch/Shader/DigitalGlitch.shader
+  uploadId: 739895

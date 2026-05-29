@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4b831584c1f22e4dbb0fb9ffa9edfd1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/ScriptableObjects/AudioClipData/Explosion/audio_explosion_medium.asset
+  uploadId: 739895

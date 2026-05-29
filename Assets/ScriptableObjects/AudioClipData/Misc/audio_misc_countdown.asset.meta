@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 691ca89d3dd8d314fa8de6526e9fe9b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/ScriptableObjects/AudioClipData/Misc/audio_misc_countdown.asset
+  uploadId: 739895

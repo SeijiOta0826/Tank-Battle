@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d98adcf928477d34ab3e74056ea21e0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/ScriptableObjects/AudioClipData/Laser/audio_laserthorn_break.asset
+  uploadId: 739895

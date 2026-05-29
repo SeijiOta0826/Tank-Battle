@@ -1,0 +1,3 @@
+Tiger_I.obj Hierarchy Structure:
+- Tiger_I
+  - default [Mesh: default, Verts: 11221]

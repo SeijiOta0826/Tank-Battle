@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b361438ee421f546972c7e49c3a5616
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/ScriptableObjects/AudioClipData/Weapon/audio_weapon_default_shoot.asset
+  uploadId: 739895

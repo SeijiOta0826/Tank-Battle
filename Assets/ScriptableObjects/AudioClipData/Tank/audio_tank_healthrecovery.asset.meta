@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56ddfed2fd31f8442991bdf881993f15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202468
+  packageName: Tanknarok Multiplayer - Photon Fusion
+  packageVersion: 2.0.5
+  assetPath: Assets/ScriptableObjects/AudioClipData/Tank/audio_tank_healthrecovery.asset
+  uploadId: 739895
